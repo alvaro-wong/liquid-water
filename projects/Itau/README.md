@@ -1,19 +1,14 @@
 # Projeto BI para Itau Cultural
 
-Este projeto foi desenvolvido em conjunto com a área de Cultura do Banco Itaú.
+Projeto foi desenvolvido em conjunto com a área de Cultura do Banco Itaú. Foi feita uma refactorização do painel de dados para o cliente.
 
 ## Projetos
 
-EIXO 01 MERCADO DE TRABALHO E EMPREENDIMENTOS
-
-EIXO 02 INDICADORES SOCIOECONÔMICOS
-
-EIXO 03 GASTOS PÚBLICOS COM CULTURA
-
-EIXO 04 COMÉRCIO INTERNACIONAL DE PRODUTOS
+Eixo 1 - MERCADO DE TRABALHO E EMPREENDIMENTOS
+Eixo 2 - INDICADORES SOCIOECONÔMICOS
+Eixo 3 - GASTOS PÚBLICOS COM CULTURA
+Eixo 4 - COMÉRCIO INTERNACIONAL DE PRODUTOS
 
 ## Links
 
-Acesso
-
-https://www.itaucultural.org.br/observatorio/paineldedados/pesquisa/
+Acesso: https://www.itaucultural.org.br/observatorio/paineldedados/pesquisa/
