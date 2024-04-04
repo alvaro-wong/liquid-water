@@ -2,5 +2,6 @@ Este respositório tem por objetivo apresentar projetos de análise de dados, bu
 
 ## Projetos
 
-- [Projeto Logístico](./logistics)
+- [Projeto Logístico - Aduanas](./logistica%20alfândega)
+- [Projeto Logístico - Comercial](./logistica%20comercial)
 - [Projeto IC - Itaú Cultural](./Itau)
